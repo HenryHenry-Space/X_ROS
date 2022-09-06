@@ -1,0 +1,2 @@
+set(object_msgs_MESSAGE_FILES "/home/xhnfly/Cosmic_rays_X/X_ROS/src/object_msgs/msg/Object.msg;/home/xhnfly/Cosmic_rays_X/X_ROS/src/object_msgs/msg/Objects.msg;/home/xhnfly/Cosmic_rays_X/X_ROS/src/object_msgs/msg/ObjectInBox.msg;/home/xhnfly/Cosmic_rays_X/X_ROS/src/object_msgs/msg/ObjectsInBoxes.msg")
+set(object_msgs_SERVICE_FILES "/home/xhnfly/Cosmic_rays_X/X_ROS/src/object_msgs/srv/ClassifyObject.srv;/home/xhnfly/Cosmic_rays_X/X_ROS/src/object_msgs/srv/DetectObject.srv")
